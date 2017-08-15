@@ -1,0 +1,98 @@
+*{
+margin: 0;padding: 0;color: #fff;font-size: 14px;
+}
+body{
+	background: url(../image/banner1.jpg) no-repeat center top #000;
+}
+/*清除*/
+.clear{
+	clear: both;
+}
+.box{
+	width: 1180px;
+	height: 1800px;
+	margin: 0 auto;
+}
+.box h1{
+	color: #fff;
+	font-size: 60px;
+	font-family: "微软雅黑";
+	margin-top: 110px;
+}
+.box .text{
+	width: 500px;
+	height: 170px;
+	line-height: 22px;
+	margin-top: 20px;
+	text-indent: 2em;
+	color: #e5e5e5;
+	border-bottom: 1px solid #e5e5e5;
+
+}
+.box  h2{
+	margin-top: 50px;
+	font-size: 23px;
+}
+.box .info h2{
+	margin-top: 150px;
+}
+.box  p{
+	margin-top: 20px;
+    line-height: 22px;
+	text-indent: 2em;
+}
+.pic{
+	float: right;
+	
+	margin-top: 20px;
+	margin-left:20px;
+	
+}
+
+
+.box ul{
+	float: left;
+	height: 500px;
+	width: 50%;
+	margin-top: 50px;
+	list-style-type: none;
+	
+}
+.box ul li{
+	
+	height: 35px;
+	border-bottom: 1px dotted #e5e5e5;
+	line-height: 35px;
+}
+.box ul li span{
+	margin-right: 20px;
+	display: inline-block;
+	width: 90px;
+}
+.box .cont{
+	width: 1180px;
+	height: 220px;
+	border-bottom: 1px solid #e5e5e5;
+	margin-top: 15px;
+}
+.box .cont .left{
+	width: 138px;
+	height: 195px;
+	float: left;
+	margin-right: 50px;
+}
+.box .cont .right{
+	width: 940px;
+	float: left;
+	margin-right: 50px;
+}
+.box .cont .right p{
+   margin-top: 0;
+   text-indent: 0;
+}
+
+.box .m{
+	width: 500px;
+	height: 300px;
+	margin-bottom: 20px;
+}
